@@ -66,8 +66,8 @@ Y= A⊕B
     input a;
     input b;
     output  [6:0] c;
-
-	module exp1(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
+```
+module exp1(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate;
 and(andgate,a,b);
@@ -78,7 +78,7 @@ nor(norgate,a,b);
 xor(xorgate,a,b);
 xnor(xnorgate,a,b);
 endmodule
-
+```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by:Harini M RegisterNumber:212225240047
