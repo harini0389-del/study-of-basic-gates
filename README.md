@@ -91,7 +91,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 <img width="737" height="562" alt="image" src="https://github.com/user-attachments/assets/1005e861-36b0-43f2-b0e4-65eccbaca3fa" />
 
 **RTL**
-<img width="1242" height="307" alt="image" src="https://github.com/user-attachments/assets/8cdc6cc0-5a34-4f8b-a850-94d66b8dde3b" />
+<img width="1600" height="760" alt="Screenshot 2026-05-13 142451" src="https://github.com/user-attachments/assets/37ab5c11-1873-49b2-ace1-709e94e57972" />
 
 **Result:**
 Thus the outputs of Basic Logic Gates are verified by simulating and synthesizing the VERILOG code.
